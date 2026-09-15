@@ -3,11 +3,9 @@
 Machine Learning & AI BootCamp
 
 This repository contains my solutions for Assignment 1, designed to strengthen the fundamental Python programming concepts covered in the early sessions of the Machine Learning & AI BootCamp.
-
 The assignment focuses on building a strong programming foundation through hands-on exercises involving variables, data types, strings, conditional statements, loops, functions, core data structures, and list comprehensions.
 
 🎯 Objectives
-
 The main objectives of this assignment are to:
 
 Practice Python variables and basic data types
@@ -81,31 +79,6 @@ Section 4	Loops & Loop Control
 Section 5	Functions
 Section 6	Lists, Tuples, Sets & Dictionaries
 Section 7	List Comprehensions
-🛠️ Technologies Used
-Python 3
-Jupyter Notebook
-Google Colab / Jupyter Environment
-📂 Repository Structure
-Assignment-1-Python-Basics/
-│
-├── Assignment-1_Basics_Control_Flow_and_Functions.ipynb
-└── README.md
-🚀 How to Run
-Option 1 — Google Colab
-Open the notebook in Google Colab.
-Run each cell sequentially.
-Review the output of each exercise.
-Option 2 — Jupyter Notebook
-
-Install Python and Jupyter Notebook, then run:
-
-jupyter notebook
-
-Open:
-
-Assignment-1_Basics_Control_Flow_and_Functions.ipynb
-
-and execute the cells.
 
 💡 Key Learning Outcomes
 
@@ -131,14 +104,6 @@ List Comprehensions
 
 These concepts provide an important foundation for progressing toward Data Science, Machine Learning, and Artificial Intelligence.
 
-📌 Assignment Information
-
-Assignment: Assignment 1
-Focus: Python Basics, Control Flow & Data Structures
-Program: Machine Learning & AI BootCamp
-Instructor: Fahd
-Language: Python
-
 🌱 Progress
 
 This assignment is part of my ongoing journey to strengthen my Python programming fundamentals and build a solid foundation for future work in Machine Learning and Artificial Intelligence.
@@ -146,9 +111,7 @@ This assignment is part of my ongoing journey to strengthen my Python programmin
 More projects and assignments will be added as I continue learning and developing my skills.
 
 👩‍💻 Author
-
 Sabrin Alom
-
 Computer Science & Engineering Student
 Interested in Artificial Intelligence, Machine Learning & AI Engineering
 
