@@ -1,118 +1,153 @@
-🐍 Assignment 1 — Python Basics, Control Flow & Data Structures
+# Python Basics, Control Flow & Data Structures
 
-Machine Learning & AI BootCamp
+This repository contains my **Assignment 1** from the **Machine Learning & AI BootCamp**. The assignment focuses on Python programming fundamentals, including variables, data types, string operations, conditional statements, loops, functions, data structures, and list comprehensions.
 
-This repository contains my solutions for Assignment 1, designed to strengthen the fundamental Python programming concepts covered in the early sessions of the Machine Learning & AI BootCamp.
-The assignment focuses on building a strong programming foundation through hands-on exercises involving variables, data types, strings, conditional statements, loops, functions, core data structures, and list comprehensions.
+## 📌 Objective
 
-🎯 Objectives
-The main objectives of this assignment are to:
+The main objective of this assignment is to build a strong foundation in Python programming and understand the basic concepts required for Machine Learning, Artificial Intelligence, and Data Science.
 
-Practice Python variables and basic data types
-Perform basic arithmetic operations
-Understand type casting
-Work with strings and string manipulation
-Use conditional statements for decision-making
-Practice for and while loops
-Understand break and continue
-Create and use functions
-Work with Lists, Tuples, Sets, and Dictionaries
-Apply list comprehensions for efficient data processing
-Develop problem-solving skills using Python
-📚 Topics Covered
-1. Variables, Data Types & Basic Arithmetic
-Temperature conversion
-Rectangle area and perimeter
-Type casting
-Checking data types
-Floor division and modulo
-2. String Operations & Slicing
-String indexing
-String slicing
-String reversal
-.strip()
-.upper()
-.lower()
-.replace()
-.count()
-3. Conditional Statements
-if
-elif
-else
-Even/Odd checking
-Positive/Negative/Zero checking
-Grade calculation
-4. Loops & Loop Control
-for loops
-while loops
-Multiplication tables
-Summation using loops
-break
-continue
-5. Functions
-Defining functions
-Function parameters
-Return values
-Default arguments
-Comparing values using functions
-6. Core Data Structures
-Lists
-Tuples
-Sets
-Dictionaries
-List modification and manipulation
-Tuple unpacking
-Set union and intersection
-Dictionary iteration
-7. List Comprehensions
-Squaring numbers
-Filtering even numbers using conditions
-📝 Assignment Exercises
+The assignment covers:
 
-The notebook contains exercises covering:
+* Variables and Data Types
+* Basic Arithmetic Operations
+* Type Casting
+* String Operations and Slicing
+* Conditional Statements
+* Loops and Loop Control
+* Functions
+* Lists, Tuples, Sets, and Dictionaries
+* List Comprehensions
 
-Section	Main Concepts
-Section 1	Variables, Data Types & Arithmetic
-Section 2	Strings & Slicing
-Section 3	Conditional Statements
-Section 4	Loops & Loop Control
-Section 5	Functions
-Section 6	Lists, Tuples, Sets & Dictionaries
-Section 7	List Comprehensions
+## 🛠️ Technologies Used
 
-💡 Key Learning Outcomes
+* Python
+* Jupyter Notebook
+* Google Colab
 
-Through this assignment, I practiced the fundamental building blocks of Python programming, including:
+## 📚 Topics Covered
 
-Variables
-   ↓
-Data Types
-   ↓
-Operators & Arithmetic
-   ↓
-Strings
-   ↓
-Conditional Statements
-   ↓
-Loops
-   ↓
-Functions
-   ↓
-Data Structures
-   ↓
-List Comprehensions
+### 1. Variables, Data Types & Basic Arithmetic
 
-These concepts provide an important foundation for progressing toward Data Science, Machine Learning, and Artificial Intelligence.
+This section focuses on basic Python operations and data types.
 
-🌱 Progress
+Exercises include:
 
-This assignment is part of my ongoing journey to strengthen my Python programming fundamentals and build a solid foundation for future work in Machine Learning and Artificial Intelligence.
+* Celsius to Fahrenheit conversion
+* Rectangle area and perimeter calculation
+* String to integer and float conversion
+* Checking data types
+* Using floor division and modulo operations
 
-More projects and assignments will be added as I continue learning and developing my skills.
+### 2. String Operations & Slicing
 
-👩‍💻 Author
-Sabrin Alom
-Computer Science & Engineering Student
-Interested in Artificial Intelligence, Machine Learning & AI Engineering
+This section focuses on manipulating and accessing strings.
 
-⭐ If you find this repository useful, feel free to explore the notebook and follow my learning journey.
+Exercises include:
+
+* String indexing
+* String slicing
+* Reversing strings
+* Removing whitespace
+* Changing string case
+* Replacing characters or text
+* Counting occurrences
+
+### 3. Conditional Statements
+
+This section introduces decision-making using Python conditions.
+
+Exercises include:
+
+* Checking even and odd numbers
+* Checking positive, negative, and zero values
+* Creating a grade calculator
+
+### 4. Loops & Loop Control
+
+This section focuses on repetitive tasks using loops.
+
+Exercises include:
+
+* Generating a multiplication table
+* Calculating the sum of numbers
+* Using `while` loops
+* Using `break`
+* Using `continue`
+
+### 5. Functions
+
+This section introduces reusable blocks of code using functions.
+
+Exercises include:
+
+* Greeting a student
+* Adding two numbers
+* Using default arguments
+* Finding the larger value between two numbers
+
+### 6. Core Data Structures
+
+This section focuses on Python's main built-in data structures.
+
+Exercises include:
+
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+
+Operations include adding, updating, removing, accessing, unpacking, and iterating through data.
+
+### 7. List Comprehensions
+
+This section introduces a concise way to create and filter lists.
+
+Exercises include:
+
+* Creating a list of squares
+* Filtering even numbers
+* Using conditions inside list comprehensions
+
+## 📁 Repository Structure
+
+```text
+Assignment-1-Python-Basics-Control-Flow/
+│
+├── README.md
+└── Assignment-1_Basics_Control_Flow_and_Functions.ipynb
+```
+
+## 💻 How to Run
+
+1. Clone or download this repository.
+2. Open the Jupyter Notebook file.
+3. Open it using Google Colab, Jupyter Notebook, JupyterLab, or VS Code.
+4. Run the notebook cells sequentially.
+
+## 🎯 Learning Outcomes
+
+Through this assignment, I learned how to:
+
+* Work with Python variables and data types.
+* Perform basic mathematical operations.
+* Convert values between different data types.
+* Manipulate and slice strings.
+* Use conditional statements for decision-making.
+* Work with `for` and `while` loops.
+* Control loops using `break` and `continue`.
+* Create and use Python functions.
+* Work with lists, tuples, sets, and dictionaries.
+* Use list comprehensions for efficient data processing.
+* Build a strong Python foundation for AI and Data Science.
+
+## 👨‍💻 Author
+
+**Sabrin Alom**
+
+BSc in Computer Science & Engineering
+Southeast University
+
+## 📌 Conclusion
+This assignment provided practical experience in applying Python programming concepts to AI, Machine Learning, Data Science, IoT, and system-related scenarios. It also helped strengthen my understanding of Python features that are useful for future work in Artificial Intelligence and Machine Learning.
+
+This assignment provided practical experience with the fundamental concepts of Python programming. These concepts form an important foundation for further learning in **Artificial Intelligence, Machine Learning, and Data Science**.
